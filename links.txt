@@ -1,3 +1,4 @@
+//
 Loop:
 https://www.youtube.com/watch?v=8aGhZQkoFbQ
 http://latentflip.com/loupe/?code=c2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOw%3D%3D!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D
@@ -15,4 +16,26 @@ https://github.com/lukeed/clsx
 
 ORM:
 https://www.prisma.io/
+
+//
+Toolkit for JavaScript and TypeScript apps:
+https://bun.sh/docs/quickstart
+
+Animation:
+https://www.framer.com/motion/
+
+React Spaces:
+https://allaneagle.com/projects/react-spaces
+
+Draggable:
+https://master--5fc05e08a4a65d0021ae0bf2.chromatic.com/?path=/story/core-draggable-hooks-usedraggable--basic-setup
+
+Redux (Posts):
+https://redux.js.org/tutorials/essentials/part-3-data-flow#main-posts-feed
+
+Next (How routing and navigation works):
+https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating#how-routing-and-navigation-works
+
+T3:
+https://create.t3.gg/
 
